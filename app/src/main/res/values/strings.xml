@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="select_unit_text">Select Unit</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="chalk_background">chalk background</string>
+    <string name="unit_converter">Unit\nConverter</string>
+    <string name="enter_decimal_number">Enter decimal number</string>
+    <string name="equal_sign">=</string>
+    <string name="get_decimal_result">get decimal result</string>
+    <string name="input_value"></string>
+    <string name="reset">Reset</string>
+    <string name="blackoverlay">blackoverlay</string>
+
+
+    <string-array name="select_unit">
+        <item>Length</item>
+        <item>Mass</item>
+        <item>Temperature</item>
+        <item>Volume</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Kilometers</item>
+    </string-array>
+
+    <string-array name="mass_units">
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="volume_units">
+        <item>Liters</item>
+        <item>Milliliters</item>
+        <item>US Gallons</item>
+    </string-array>
+
+</resources>

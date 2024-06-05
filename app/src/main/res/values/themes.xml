@@ -1,0 +1,7 @@
+<!-- res/values-night/themes.xml -->
+<resources>
+    <style name="Theme.UnitConverterApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your night theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
